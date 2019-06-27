@@ -15,12 +15,16 @@ class BitmapProviderFactory {
                 .setCacheSize(cacheSize)
                 .setEmojiDrawableArr(
                     intArrayOf(
-                        R.mipmap.icon_like_one,
-                        R.mipmap.icon_like_two,
-                        R.mipmap.icon_like_three,
-                        R.mipmap.icon_like_four,
-                        R.mipmap.icon_like_five,
-                        R.mipmap.icon_like_six
+                        R.mipmap.emoji_1,
+                        R.mipmap.emoji_2,
+                        R.mipmap.emoji_3,
+                        R.mipmap.emoji_4,
+                        R.mipmap.emoji_5,
+                        R.mipmap.emoji_6,
+                        R.mipmap.emoji_7,
+                        R.mipmap.emoji_8,
+                        R.mipmap.emoji_9,
+                        R.mipmap.emoji_10
                     )
                 )
                 .setNumberDrawableArr(
