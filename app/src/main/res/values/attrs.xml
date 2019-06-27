@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SuperLikeLayout">
+        <attr name="emojiCount" format="integer"/>
+        <attr name="duration" format="integer"/>
+        <attr name="speed" format="integer"/>
+        <attr name="gravity" format="integer"/>
+        <attr name="cacheSize" format="integer"/>
+    </declare-styleable>
+</resources>
